@@ -20,7 +20,7 @@ Ce projet Blazor Pizzas est une application web de gestion de pizzas développé
 
 ## Configuration du Projet
 
-1. Clonez le dépôt : `git clone [URL du dépôt]`
+1. Clonez le dépôt : `https://github.com/Osiris-ouaga/BlazorPizzas.git`
 2. Ouvrez le projet dans Visual Studio ou un autre éditeur de code.
 3. Exécutez l'application.
 
